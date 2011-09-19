@@ -1,0 +1,12 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="init.lua"/>
+	<Script file="stuff\tooltip.lua"/>
+	<Script file="stuff\loot.lua"/>
+	<Script file="stuff\lootroll.lua"/>
+	<Script file="stuff\minor.lua"/>
+	<Script file="stuff\alert.lua"/>
+	<Script file="stuff\error.lua"/>
+	<Script file="stuff\starttimer.lua"/>
+	<Script file="blizzardskin\common.lua"/>
+	<Script file="blizzardskin\playerpaper.lua"/>
+</Ui>

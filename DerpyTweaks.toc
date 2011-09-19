@@ -1,0 +1,9 @@
+## Interface: 40200
+## Author: AlleyKat
+## Version: v0.1
+## Title: |cffcccc22D|r|cff999999erpy|rTweaks
+## Notes: Main part of HissyUI.
+## RequiredDeps: DerpyMedia
+## OptionalDeps: DerpyActionBars, DerpyChat, oUF
+
+DerpyTweaks.xml
